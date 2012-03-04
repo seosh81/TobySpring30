@@ -3,7 +3,6 @@ package info.seosh81.toby30.chapter1.dao;
 import info.seosh81.toby30.chapter1.domain.User;
 
 import java.sql.Connection;
-import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
